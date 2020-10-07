@@ -1,2 +1,6 @@
 some update as per pull comments
+
 Updated by developer1
+======
+udpated by developer2
+>>>>>>> 31b1432d8a987a94695aac591e15e509f75f9467
